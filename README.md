@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Priyansh-Agarwal
-- 👀 I’m interested in Development, Entrepreneurship and Marketing.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on Projects.
+- 👨‍💼 I’m interested in Development, Entrepreneurship and Marketing.
+- 👨‍💻 I’m currently learning Web Development.
+- 🤝 I’m looking to collaborate on Projects.
 - 📫 How to reach me LinkedIn.
 https://www.linkedin.com/in/agarwalpriyansh/
 
