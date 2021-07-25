@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/agarwalpriyansh/](https://www.linkedin.com/in/agarwalpriyansh/)
 
-- ⚡ Fun fact **I think I'm a good leader.**
+- ⚡ Fun fact **I think I'm a good team leader and a manager.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
